@@ -10,7 +10,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
 
-<div>
+<p align="center">
   <a href="https://www.typescriptlang.org/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -29,70 +29,70 @@
   <a href="https://laravel.com">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   </a>
-</div>
+</p>
 <br />
-<div>
+<p align="center">
   <a href="https://www.w3.org/html/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://nuxtjs.org/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://svelte.dev">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   </a>
-</div>
+</p>
 <br />
-<div>
+<p align="center">
   <a href="https://www.mysql.com/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://neo4j.com/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
   </a>
-</div>
+</p>
 <br />
-<div>
+<p align="center">
   <a href="https://git-scm.com/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </a>
-</div>
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=164e63)
 
