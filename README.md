@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20a%20passionate%20software%20engineer&descSize=24)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20a%20passionate%20software%20engineer&descSize=24)
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&text=Bio&fontColor=ffffff&fontSize=42)
 
