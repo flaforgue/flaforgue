@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20a%20passionate%20software%20engineer&descSize=24)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&text=Bio&fontColor=ffffff&fontSize=42)
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0ea5e9,100:8b5cf6&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e&fontSize=42)
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -39,8 +41,10 @@
   <a href="https://aws.amazon.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=164e63)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=164e63&fontSize=42)
 
 <div>
   <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=return;&section=footer&fontSize=42&fontAlignY=70)
