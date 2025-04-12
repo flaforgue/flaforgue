@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&text=Bio&fontColor=ffffff&fontSize=42)
 
-<p align="center>
+<p align="center">
   I'm a fullstack developer who enjoys writing APIs just as much as fine-tuning UIs over and over again.
   Here you'll find my public projects, work-in-progress ideas, and maybe some clean code if we are lucky 😄
   Always up for meeting other passionate devs so do not hesitate to contact me.
