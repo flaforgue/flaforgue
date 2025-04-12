@@ -7,10 +7,10 @@
 <p align="center">
   I'm a fullstack developer who enjoys writing APIs just as much as fine-tuning UIs over and over again.<br />
   Here you'll find my public projects, work-in-progress ideas, and maybe some clean code if we are lucky 😄<br />
-  Always up for meeting other passionate devs so do not hesitate to contact me.<br />
+  Always up for meeting other passionate devs so do not hesitate to contact me (on <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a>).<br />
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0ea5e9,100:8b5cf6&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0ea5e9,100:8b5cf6&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=164e63)
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@
   <a href="https://aws.amazon.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=164e63)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=4a044e)
 
 <div>
   <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
