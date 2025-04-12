@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&animation=fadeIn&text=Hi%20everyone)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20a%20passionate%20software%20engineer&descSize=24)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
 <h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
@@ -49,8 +49,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=164e63)
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=easymeals" alt="easymeals" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=game-of-life" alt="game-of-life" /></p>
-  <br /><br /><br /><br /><br /><br /><br>
   <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
 </div>
