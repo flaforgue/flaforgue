@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ICMetrics**, a simple application to browse Individual Contributors metrics
 
--❓ Ask me about anything related to Node, Typescript and their ecosystem
+- ❓ Ask me about anything related to Node, Typescript and their ecosystem
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/flaforgue](https://www.linkedin.com/in/flaforgue)
 
