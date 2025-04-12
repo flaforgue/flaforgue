@@ -1,19 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&animation=fadeIn&text=Hi%20everyone)
-<h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
-<h3 align="left">News</h3>
+<h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
 
-- 🎉 I just finished [Easymeals](https://easymeals.fr), a collaborative app to plan meals, generate shoppling lists and cook
+<p align="left">🎉 I just finished [Easymeals](https://easymeals.fr), a collaborative app to plan meals, generate shoppling lists and cook</p>
 
-- 🔭 I’m currently working on **ICMetrics**, a simple application to browse Individual Contributors metrics
+<p align="left">🔭 I’m currently working on **ICMetrics**, a simple application to browse Individual Contributors metrics</p>
 
-- ❓ Ask me about anything related to Node, Typescript and their ecosystem
+<p align="left">❓ Ask me about anything related to Node, Typescript and their ecosystem</p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/flaforgue](https://www.linkedin.com/in/flaforgue)
+<p align="left">📄 Know about my experiences [https://www.linkedin.com/in/flaforgue](https://www.linkedin.com/in/flaforgue)</p>
 
-<h3 align="left">Languages and Tools</h3>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
+
 <div style="display: flex; flex-direction: column; gap: 1rem">
   <div style="display: flex; gap: 1rem; align-items: center;">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
@@ -148,7 +147,8 @@
   </div>
 </div>
 
-<h3 align="left">Latest projects</h3>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&animation=fadeIn&fontSize=42&text=Latest%20Projects&fontColor=164e63)
+
 <div style="display: flex; gap: 2rem;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=easymeals" alt="easymeals" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=game-of-life" alt="game-of-life" /></p>
