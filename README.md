@@ -10,7 +10,7 @@
   Always up for meeting other passionate devs so do not hesitate to contact me (on <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a>).<br />
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0ea5e9,100:8b5cf6&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=164e63)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0ea5e9,100:6d28d9&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=164e63)
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>&nbsp;&nbsp;&nbsp;
