@@ -52,7 +52,7 @@
 
 <p align="center"><strong>🎉 Just released <a href="https://easymeals.fr">Easymeals 🎉</a></strong><br />A collaborative app to plan meals, generate shoppling lists and cook</p>
 <p align="center"><strong>🔭 Now working on <strong>ICMetrics</strong> 🔭</strong><br />A simple application to browse Individual Contributors metrics</p>
-
+<br />
 <div>
   <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
 </div>
