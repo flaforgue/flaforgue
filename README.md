@@ -3,6 +3,7 @@
 
 <h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
 <br />
+
 🎉 I just finished [Easymeals](https://easymeals.fr), a collaborative app to plan meals, generate shoppling lists and cook
 
 🔭 I’m currently working on **ICMetrics**, a simple application to browse Individual Contributors metrics
