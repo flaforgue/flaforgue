@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&animation=fadeIn&text=Hi%20everyone)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
+<p align="right"> <img height="40" width="40" src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
 <h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
 <br />
@@ -34,64 +34,64 @@
 
   <div style="display: flex; gap: 1rem; align-items: center;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
     </a>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
     </a>
     <a href="https://svelte.dev" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
     </a>
   </div>
   
   <div style="display: flex; gap: 1rem; align-items: center;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     </a>
     <a href="https://neo4j.com/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
     </a>
   </div>
   
   <div style="display: flex; gap: 1rem; align-items: center;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: inline-block; height: 40px; width: 40px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     </a>
   </div>
 </div>
