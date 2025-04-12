@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&animation=fadeIn&text=Hi%20everyone)
-<p align="right"> <img height="40" width="40" src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
 <h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
 <br />
-<p align="left">🎉 Just released <a href="https://easymeals.fr">Easymeals</a>, a collaborative app to plan meals, generate shoppling lists and cook</p>
-<p align="left">🔭 Currently working on <strong>ICMetrics</strong>, a simple application to browse Individual Contributors metrics</p>
-<p align="left">❓ Ask me about anything related to <strong>Node</strong>, <strong>Typescript</strong> and their ecosystem</p>
-<p align="left">📄 Know about my professional experiences on <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a></p>
+<p align="center">🎉 Just released <a href="https://easymeals.fr">Easymeals 🎉</a><br />A collaborative app to plan meals, generate shoppling lists and cook</p>
+<p align="center">🔭 Now working on <strong>ICMetrics</strong> 🔭<br />A simple application to browse Individual Contributors metrics</p>
+<p align="center">❓ Ask me about<br />Anything related to <strong>Node</strong>, <strong>Typescript</strong> and their ecosystem</p>
+<p align="center">📄 Professional experiences<br />On <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a></p>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
 
