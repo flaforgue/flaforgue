@@ -2,14 +2,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
 <h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
+<br />
+🎉 I just finished [Easymeals](https://easymeals.fr), a collaborative app to plan meals, generate shoppling lists and cook
 
-<p align="left">🎉 I just finished [Easymeals](https://easymeals.fr), a collaborative app to plan meals, generate shoppling lists and cook</p>
+🔭 I’m currently working on **ICMetrics**, a simple application to browse Individual Contributors metrics
 
-<p align="left">🔭 I’m currently working on **ICMetrics**, a simple application to browse Individual Contributors metrics</p>
+❓ Ask me about anything related to Node, Typescript and their ecosystem
 
-<p align="left">❓ Ask me about anything related to Node, Typescript and their ecosystem</p>
-
-<p align="left">📄 Know about my experiences [https://www.linkedin.com/in/flaforgue](https://www.linkedin.com/in/flaforgue)</p>
+📄 Know about my experiences [https://www.linkedin.com/in/flaforgue](https://www.linkedin.com/in/flaforgue)
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
 
@@ -153,5 +153,5 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=easymeals" alt="easymeals" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=game-of-life" alt="game-of-life" /></p>
   <br /><br /><br /><br /><br /><br /><br>
-  <p><a href="https://www.buymeacoffee.com/florian.laforgue" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
+  <p align="center"><a style="display: inline-block; height: 50px; width: 210px;" href="https://www.buymeacoffee.com/florian.laforgue" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
 </div>
