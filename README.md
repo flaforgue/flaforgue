@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20a%20passionate%20software%20engineer&descSize=24)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
-<h3 align="center">I'm Florian Laforgue, a passionate software engineer from Paris</h3>
-<br />
-<p align="center"><strong>🎉 Just released <a href="https://easymeals.fr">Easymeals 🎉</a></strong><br />A collaborative app to plan meals, generate shoppling lists and cook</p>
-<p align="center"><strong>🔭 Now working on <strong>ICMetrics</strong> 🔭</strong><br />A simple application to browse Individual Contributors metrics</p>
-<p align="center"><strong>❓ Ask me about</strong><br />Anything related to <strong>Node</strong>, <strong>Typescript</strong> and their ecosystem</p>
-<p align="center"><strong>📄 Professional experiences</strong><br />On <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a></p>
-
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Languages%20and%20Tools&fontColor=4a044e)
 
 <p align="center">
