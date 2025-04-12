@@ -154,8 +154,9 @@
   <div style="display: flex; gap: 2rem;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=easymeals" alt="easymeals" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=game-of-life" alt="game-of-life" /></p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaforgue&show_icons=true&locale=en&layout=compact" alt="flaforgue" /></p>
   </div>
+
+  <br>
   
   <h3 align="left">Support</h3>
   <p><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
