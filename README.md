@@ -100,5 +100,5 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=easymeals" alt="easymeals" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flaforgue&repo=game-of-life" alt="game-of-life" /></p>
   <br /><br /><br /><br /><br /><br /><br>
-  <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
+  <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
 </div>
