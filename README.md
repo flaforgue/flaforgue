@@ -10,7 +10,7 @@
   Always up for meeting other passionate devs so do not hesitate to contact me (on <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a>).<br />
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:38bdf8,100:e879f9&animation=fadeIn&fontSize=42&text=Tools&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:67e8f9,100:0369a1&animation=fadeIn&fontSize=42&text=Tools&fontColor=ffffff)
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>&nbsp;&nbsp;&nbsp;
@@ -48,14 +48,14 @@
   <a href="https://aws.amazon.com"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Work&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:a21caf,100:fca5a5&animation=fadeIn&fontSize=42&text=Work&fontColor=ffffff)
 
-### Apps
+<h3 align="center">Apps</h3>
 
 <p align="center"><strong>🎉 Just released <a href="https://easymeals.fr">Easymeals 🎉</a></strong><br />A collaborative app to plan meals, generate shoppling lists and cook</p>
 <p align="center"><strong>🔭 Now working on <strong>ICMetrics</strong> 🔭</strong><br />A simple application to browse Individual Contributors metrics</p>
 
-### Tools
+<h3 align="center">Packages</h3>
 
 <p align="center"><strong>✨ Just published <a href="https://github.com/flaforgue/eslint-config-typescript">eslint-config-typescript</a></strong><br />An opinionated eslint config for typescript</p>
 <p align="center"><strong>🛠️ Now working on an opinionated eslint config for react</p>
