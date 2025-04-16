@@ -50,11 +50,25 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fca5a5,100:a21caf&animation=fadeIn&fontSize=42&text=Work&fontColor=ffffff)
 
+### Apps
+
 <p align="center"><strong>🎉 Just released <a href="https://easymeals.fr">Easymeals 🎉</a></strong><br />A collaborative app to plan meals, generate shoppling lists and cook</p>
 <p align="center"><strong>🔭 Now working on <strong>ICMetrics</strong> 🔭</strong><br />A simple application to browse Individual Contributors metrics</p>
+
+### Tools
+
+<p align="center"><strong>✨ Just published <a href="https://github.com/flaforgue/eslint-config-typescript">eslint-config-typescript</a></strong><br />An opinionated eslint config for typescript</p>
+<p align="center"><strong>🛠️ Now working on an opinionated eslint config for react</p>
+
 <br />
+
 <div>
-  <p align="center"><a href="https://www.buymeacoffee.com/florian.laforgue"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" /></a></p><br><br>
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/florian.laforgue">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" />
+    </a>
+  </p>
+  <br /><br />
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=return;&section=footer&fontSize=42&fontAlignY=70)
