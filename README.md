@@ -58,6 +58,7 @@
 <h3 align="center">Packages</h3>
 
 <p align="center"><strong>✨ Just published <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-typescript">@flaforgue/eslint-config-typescript</a></strong><br />An opinionated eslint config for typescript</p>
+<p align="center"><strong>✨ Along with <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-react">@flaforgue/eslint-config-react</a></strong><br />The same kind of eslint config for react</p>
 <p align="center"><strong>🛠️ Now working on an opinionated eslint config for react</p>
 
 <br />
