@@ -1,13 +1,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flaforgue&label=Profile%20views&color=0e75b6&style=flat" alt="flaforgue" /> </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20a%20passionate%20software%20engineer&descSize=24)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20everyone&section=header&reversal=false&textBg=false&fontSize=42&fontAlignY=42&animation=fadeIn&desc=I'm%20Florian%20Laforgue,%20software%20engineer&descSize=24)
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0891b2,100:d9f99d&text=Bio&fontColor=ffffff&fontSize=42)
 
 <p align="center">
   I'm a fullstack developer who enjoys writing APIs just as much as fine-tuning UIs over and over again.<br />
   Here you'll find my public projects, work-in-progress ideas, and maybe some clean code if we are lucky 😄<br />
-  Always up for meeting other passionate devs so do not hesitate to contact me (on <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a>).<br />
+  Always up for meeting other passionate devs so do not hesitate to contact me on <a href="https://www.linkedin.com/in/flaforgue">LinkedIn</a> (to start).<br />
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:67e8f9,100:0369a1&animation=fadeIn&fontSize=42&text=Tools&fontColor=ffffff)
@@ -52,25 +52,13 @@
 
 <h3 align="center">Apps</h3>
 
-<p align="center"><strong>🎉 Just released <a href="https://easymeals.fr">Easymeals 🎉</a></strong><br />A collaborative app to plan meals, generate shoppling lists and cook</p>
-<p align="center"><strong>🔭 Now working on <strong>ICMetrics</strong> 🔭</strong><br />A simple application to browse Individual Contributors metrics</p>
+<p align="center"><strong>🔭 Now working on <a href="https://star-trails.com" target="_blank">Star Trails</a> 🔭</strong><br />A B2B SaaS leveraging Github data to provide technical teams and leaders insightful analytics about team efficiency</p>
+<p align="center"><strong>🎉 Previously released <a href="https://easymeals.fr" target="_blank">Easymeals 🎉</a></strong><br />A collaborative app to plan meals, generate shoppling lists and follow cooking instructions</p>
 
 <h3 align="center">Packages</h3>
 
 
-<p align="center"><strong>✨ Just published <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-typescript">@flaforgue/eslint-config-typescript</a></strong><br />An opinionated eslint config for typescript</p>
-<p align="center"><strong>✨ Along with <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-react">@flaforgue/eslint-config-react</a></strong><br />The same kind of eslint config for react</p>
-<p align="center"><strong>🛠️ Now working on a boilerplate for github applications</p>
-
-<br />
-
-<div>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/florian.laforgue">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="florian.laforgue" />
-    </a>
-  </p>
-  <br /><br />
-</div>
+<p align="center"><strong>✨ Before that, published <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-typescript">@flaforgue/eslint-config-typescript</a></strong><br />An opinionated eslint config for typescript projects</p>
+<p align="center"><strong>✨ Along with <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-react">@flaforgue/eslint-config-react</a></strong><br />The same kind of eslint config for react/tailwing/tanstack-query projects</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=return;&section=footer&fontSize=42&fontAlignY=70)
