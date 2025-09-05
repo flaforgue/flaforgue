@@ -59,6 +59,6 @@
 
 
 <p align="center"><strong>✨ Before that, published <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-typescript">@flaforgue/eslint-config-typescript</a></strong><br />An opinionated eslint config for typescript projects</p>
-<p align="center"><strong>✨ Along with <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-react">@flaforgue/eslint-config-react</a></strong><br />The same kind of eslint config for react/tailwing/tanstack-query projects</p>
+<p align="center"><strong>✨ Along with <a href="https://www.npmjs.com/package/@flaforgue/eslint-config-react">@flaforgue/eslint-config-react</a></strong><br />The same kind of eslint config for react/tailwind/tanstack-query projects</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=return;&section=footer&fontSize=42&fontAlignY=70)
