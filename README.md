@@ -53,7 +53,7 @@
 <h3 align="center">Apps</h3>
 
 <p align="center"><strong>🔭 Now working on <a href="https://star-trails.com" target="_blank">Star Trails</a> 🔭</strong><br />A B2B SaaS leveraging Github data to provide technical teams and leaders insightful analytics about team efficiency</p>
-<p align="center"><strong>🎸 Previously released <a href="https://domajeur.com" target="_blank">Domajeur.com 🎸</a></strong><br />A guitar player's practice toolkit as a PWA including fretboard notes & scales trainer, a tuner and a metronome.</p>
+<p align="center"><strong>🎸 Previously released <a href="https://domajeur.com" target="_blank">Domajeur.com</a> 🎸</strong><br />A guitar player's practice toolkit as a PWA including fretboard notes & scales trainer, a tuner and a metronome.</p>
 
 <h3 align="center">Packages</h3>
 
